@@ -53,3 +53,4 @@ Using the tests to guide you, create the following deliverables:
 - [Wikipedia: First-class function](https://en.wikipedia.org/wiki/First-class_function)
 - [MDN: Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions)
 - [TypeOfNaN: What is a Higher-Order Function?](https://typeofnan.dev/what-is-a-higher-order-function/)
+
